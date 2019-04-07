@@ -1,0 +1,52 @@
+{
+    "type": "arrival",       
+    "status": "landed",
+    "departure": {
+        "iataCode": "BNE",
+        "icaoCode": "YBBN",
+        "terminal": "I",
+        "gate": "83",
+        "scheduledTime": "2019-04-06T14:45:00.000",
+        "estimatedTime": "2019-04-06T14:34:00.000",
+        "actualTime": "2019-04-06T14:34:00.000",
+        "estimatedRunway": "2019-04-06T14:47:00.000",
+        "actualRunway": "2019-04-06T14:47:00.000"
+    },
+    "arrival": {
+        "iataCode": "SIN",
+        "icaoCode": "WSSS",
+        "terminal": "3",
+        "baggage": "45",
+        "scheduledTime": "2019-04-06T20:45:00.000",
+        "estimatedTime": "2019-04-06T19:48:00.000",
+        "actualTime": "2019-04-06T19:48:00.000",
+        "estimatedRunway": "2019-04-06T19:44:00.000",
+        "actualRunway": "2019-04-06T19:44:00.000"
+    },
+    "airline": {
+        "name": "Ethiopian Airlines",
+        "iataCode": "ET",
+        "icaoCode": "ETH"
+    },
+    "flight": {
+        "number": "1310",
+        "iataNumber": "ET1310",
+        "icaoNumber": "ETH1310"
+    },  
+    "codeshared": {
+        
+        "airline": {
+            "name": "Singapore Airlines",
+            "iataCode": "SQ",
+            "icaoCode": "SIA"
+        },
+        
+        "flight": {
+            "number": "236",
+            "iataNumber": "SQ236",
+            "icaoNumber": "SIA236"
+        }
+        
+    }
+    
+}
